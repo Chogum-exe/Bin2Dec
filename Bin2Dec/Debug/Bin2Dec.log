@@ -1,0 +1,3 @@
+﻿  Bin2Dec.cpp
+C:\Users\soham\source\repos\Bin2Dec\Bin2Dec.cpp(21,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Bin2Dec.vcxproj -> C:\Users\soham\source\repos\Bin2Dec\Debug\Bin2Dec.exe
